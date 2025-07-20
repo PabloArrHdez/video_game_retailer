@@ -76,4 +76,3 @@ Random Forest Classification Report:
 ##  Autor
 
 **Pablo Arrastia Hernández**  
-Trabajo Final para el Master en Data Science & IA | Evolve 2025
